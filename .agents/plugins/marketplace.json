@@ -1,0 +1,20 @@
+{
+  "name": "lxq0921-plugins",
+  "interface": {
+    "displayName": "LXQ Codex 插件市场"
+  },
+  "plugins": [
+    {
+      "name": "hello-plugin",
+      "source": {
+        "source": "local",
+        "path": "./plugins/hello-plugin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
