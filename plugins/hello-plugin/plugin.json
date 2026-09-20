@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hello-plugin",
+  "version": "1.0.0",
+  "description": "用于测试 Codex 插件市场的简单插件",
+  "author": {
+    "name": "lxq0921"
+  },
+  "repository": "https://github.com/lxq0921/codex-plugins",
+  "license": "MIT",
+  "keywords": ["codex", "test"]
+}
